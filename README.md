@@ -1,5 +1,1 @@
-# commonclassroom is OP
-
-Sandesh more says that community is amazing.
-Sandesh made this change.
-
+Diksha says that this community is amazing.
